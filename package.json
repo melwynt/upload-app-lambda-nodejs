@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-lambda-function",
+  "version": "1.0.0",
+  "description": "Lambda function to retrieve presigned url",
+  "main": "index.js",
+  "author": "Melwyn Turbant <melwynt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
